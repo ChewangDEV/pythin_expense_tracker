@@ -74,7 +74,7 @@ Expense-Tracker/
 
 Chewang Tamang
 
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: ChewangDEV (https://github.com/ChewangDEV)
 
 ---
 
